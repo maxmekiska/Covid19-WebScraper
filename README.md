@@ -14,3 +14,7 @@
 -> shows table with upper mentioned fields for all countries (when used on phone, hold device horizontally)
 
 ## Current outputs
+
+### a-shell on iphone output:
+
+![](resources/demo.gif)
