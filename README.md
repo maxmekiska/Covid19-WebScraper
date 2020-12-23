@@ -15,6 +15,10 @@
 
 ## Current outputs
 
-### a-shell on iphone output:
+### a-Shell on iphone output:
 
 ![](resources/demo.gif)
+
+### Table output on PC (full data not displayed because table on website is filled at the end of the day):
+
+![](resources/Output1.png)
